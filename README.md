@@ -202,16 +202,6 @@ period.
 
 ---
 
-## Roadmap
-
-- [x] Reference implementation of TEI, HTRF, adaptive horizon and hot-swap portfolio
-- [ ] Port the supervisor to a Stateflow chart and the planner to an MPC formulation
-- [ ] Replace the kinematic ego model with a full bicycle model
-- [ ] Validate against real unstructured-driving data (e.g. the Indian Driving Dataset)
-- [ ] Add perception noise and false-positive detections to stress-test the OGM
-
----
-
 ## References
 
 - [Indian Driving Dataset (IDD)](https://idd.insaan.iiit.ac.in/)
